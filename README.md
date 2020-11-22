@@ -37,10 +37,10 @@ where people can submit a request to work with me or even just send me a message
 
 5. What new areas of programming are you exploring through this challenge?
 
-  -Web Development
+    -Web Development
 
-  -Database
+    -Database
 
 6. What is the deadline?
 
-  22-11-2020 :-)
+    22-11-2020 :-)
