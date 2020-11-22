@@ -23,23 +23,24 @@ where people can submit a request to work with me or even just send me a message
 --------------
 1. What is the purpose of the code you are writing?
 
-The purpose of this program is to have my own portfolio website that is live and in production.
+    The purpose of this program is to have my own portfolio website that is live and in production.
 
 2. How did you plan the development?
 
-N/A
+    N/A
 
 3. What ressources are you using to gain knowledge about the code you are developing?
 
-https://flask.palletsprojects.com/en/1.1.x/
+    https://flask.palletsprojects.com/en/1.1.x/
 
 4. How are you going to test your code?
 
 5. What new areas of programming are you exploring through this challenge?
 
--Web Development
--Database
+  -Web Development
+
+  -Database
 
 6. What is the deadline?
 
-22-11-2020 :-)
+  22-11-2020 :-)
